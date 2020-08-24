@@ -13,3 +13,5 @@ Once installed, click the TamperMonkey symbol in the top right of your browser t
 This will open a new tab showing a list of installed scripts, check the DTX_SUBMIT_HOLIDAYS script is installed and enabled.
 
 Now when you load DTX and view the My Holidays tab you should see some new numbers showing holiday entitlement, taken, future and remaining values in days.
+
+(The default day is taken as 7.5 hours, but you can edit the script and change value *hoursInWorkingDay* if you need to)
