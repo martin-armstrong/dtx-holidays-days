@@ -7,7 +7,7 @@ Install the TamperMonkey extension on Chrome or Firefox..\
 [Firefox Install](https://addons.mozilla.org/en-GB/firefox/addon/tampermonkey/)
 
 With the extension installed, right click [this link](https://github.com/martin-armstrong/dtx-holidays-days/raw/master/DTX_HOLIDAY_DAYS.user.js) and choose open in new tab.\
-You should be prompted to install the script into TamperMonkey.
+You should be shown a TamperMonkey page asking if you want to use the script, click the install button.
 
 Once installed, click the TamperMonkey symbol in the top right of your browser then click "Dashboard".\
 This will open a new tab showing a list of installed scripts, check the DTX_SUBMIT_HOLIDAYS script is installed and enabled.
